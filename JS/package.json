@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ytdl-core": "npm:@distube/ytdl-core@^4.15.9"
+  }
+}
